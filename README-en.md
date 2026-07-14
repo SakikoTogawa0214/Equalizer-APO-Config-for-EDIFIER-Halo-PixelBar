@@ -8,3 +8,5 @@ This is an audio configuration based on Equalizer APO and ReaXcomp (VST) that ca
 
 ### 2. Applying the configuration file
 Open the Equalizer APO installation directory (usually `C:\Program Files\EqualizerAPO\config\config.txt`), paste the provided configuration into that file, or load the relevant settings through your preferred GUI (for example, Peace).
+
+Please ensure that the ReaPlugs path on line 11 is the path where you installed ReaPlugs.
