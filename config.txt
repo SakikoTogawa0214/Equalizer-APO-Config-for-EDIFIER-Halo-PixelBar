@@ -1,5 +1,5 @@
 # 先降低前置增益，防止频段拉高后破音（剪切失真）
-Preamp: -4 dB
+Preamp: -21.9 dB
 # 削弱低频共鸣，减少声音的浑浊感
 Filter: ON PK Fc 150 Hz Gain -3 dB Q 1.0
 Filter: ON PK Fc 250 Hz Gain -2 dB Q 1.0
