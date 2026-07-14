@@ -9,4 +9,4 @@
 2. 下载免费的 VST 插件包 [ReaPlugs (64-bit)](https://www.reaper.fm/reaplugs/) 并完成安装。
 
 ### 2. 应用配置文件
-打开 Equalizer APO 的安装目录（通常为 `C:\\Program Files\\EqualizerAPO\\config\\config.txt`），将[config.txt(https://github.com/SakikoTogawa0214/Equalizer-APO-Config-for-EDIFIER-Halo-PixelBar/blob/main/config.txt)] 完全覆盖或追加到文件中。请确保第11行的插件路径是你的ReaPlugs的安装路径。
+打开 Equalizer APO 的安装目录（通常为 `C:\\Program Files\\EqualizerAPO\\config\\config.txt`），将[config.txt](https://github.com/SakikoTogawa0214/Equalizer-APO-Config-for-EDIFIER-Halo-PixelBar/blob/main/config.txt) 完全覆盖或追加到文件中。请确保第11行的插件路径是你的ReaPlugs的安装路径。
